@@ -1,4 +1,4 @@
-# vanillaJsSpiral
+# vanillaJsBall
 
 some practice with canvas using vanilla JavaScript
 
